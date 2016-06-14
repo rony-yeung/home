@@ -1,0 +1,18 @@
+# ~/.iftoprc
+
+# interface: eth0
+# interface: enp2s0
+
+net-filter: 192.168.1.0/24
+
+dns-resolution: yes
+hide-destination: no
+hide-source: no
+line-display: one-line-both
+log-scale: yes
+port-display: on
+port-resolution: yes
+promiscuous: yes
+show-bars: yes
+show-totals: yes
+use-bytes: yes
