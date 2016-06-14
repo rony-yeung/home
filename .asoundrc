@@ -1,7 +1,8 @@
 # ~/.asoundrc | /etc/asound.conf
 
+# BYE: systemd + pulseaudio + rtkit = bugging + log flooding
+#
 # REF: http://alsa.opensrc.org/How_to_use_softvol_to_control_the_master_volume
-
 
 # reload ALSA with:
 # sudo alsactl kill rescan && sudo alsactl nrestore
