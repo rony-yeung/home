@@ -1,6 +1,7 @@
 # ~/.asoundrc | /etc/asound.conf
 
-# reload alsa with `sudo alsactl kill rescan && sudo alsactl nrestore'
+# reload ALSA with:
+# sudo alsactl kill rescan && sudo alsactl nrestore
 
 pcm.!default {
     type plug
