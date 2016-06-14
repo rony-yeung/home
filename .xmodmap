@@ -1,0 +1,10 @@
+! ~/.xmodmap
+!
+! list with xmodmap -pke
+! reloads with xmodmap newmap
+
+! CapsLock as Chromebook's Search/Mod4
+clear Lock
+keycode 66 = Super_L NoSymbol Super_L
+! PrtSc on ThinkPad keyboard as Mod4
+keycode 107 = Super_R NoSymbol Super_R
