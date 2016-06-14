@@ -1,2 +1,1 @@
-## home
-/home/me/
+# /${HOME}/${USER}
